@@ -12,7 +12,8 @@
 
 ### How I Build It
 + I used HTML and a simple CSS border to create the game board
-+ The smiley face is a png file borrowed, you can find it [here](http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png)
++ The smiley face is a png file borrowed, you can find it [here](http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png) 
+![alt tag](http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png)
 + I created a four loop and used the .createElement() JavaScript method to generate the number of images based on a random number between 0 and 400.
 + Using style methods, I added the random number as pixels to the number of images generated, which set the locations of the smiley faces on the game board
 + I used the .appendChild() method to set the images to the left side of the game board and the .cloneNode() method to match the right side
