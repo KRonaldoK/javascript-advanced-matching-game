@@ -20,6 +20,6 @@
 + Outside of that for loop, another function was created for the click handler, in which for every correct smiley face the user matched, another 5 faces are generated, thus creating the instance for the next level
 + Finally, I created a game over function for when the user clicked on the wrong face.
 
-![alt tag](http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png)
+
 
 
